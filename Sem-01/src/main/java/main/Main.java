@@ -62,6 +62,7 @@ public class Main {
         System.out.println(2.0 - 12.); // -10.0
         System.out.println(minus_inf); // -Infinity
     }
+    
 
     static void Branches(int b) {
 //        int b = 100;
@@ -131,7 +132,6 @@ public class Main {
             System.out.println(e.getMessage());
         }
     }
-
 
     static void arrays() {
         int[] array; // declare array but don't initialize

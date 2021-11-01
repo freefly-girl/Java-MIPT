@@ -3,6 +3,7 @@ package StringSamples;
 import java.io.IOException;
 
 public class SomeClass implements Appendable {
+
     @Override
     public Appendable append(CharSequence var1) throws IOException{
         return this;
